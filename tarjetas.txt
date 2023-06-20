@@ -11,3 +11,4 @@ hipotecario
 platinum
 gold
 black
+Argentina
