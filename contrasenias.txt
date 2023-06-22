@@ -1,3 +1,0 @@
-carlos,1234
-juan,1234
-sebastian,1234
